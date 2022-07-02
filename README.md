@@ -1,0 +1,2 @@
+# Origincraft
+Origincraft, my server.
